@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca15dfa4-3fd5-4c71-bb11-d35c9a76efa2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/demo.Test/src/main/java/KafkaTesting/demo/Test/Consumer/KafkaConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo.Test/src/main/java/KafkaTesting/demo/Test/Controller/KafkaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.Test/src/main/java/KafkaTesting/demo/Test/Producer/KafkaProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo.Test/src/main/java/KafkaTesting/demo/Test/Producer/KafkaProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.Test/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo.Test/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SaswataGoswamiB"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SaswataGoswamiB/KafkaSpringBoot.git",
+    "accountId": "3608b754-4eb5-4c5f-86db-719a3a4fb6ac"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -38,7 +53,8 @@
     "Application.Application.executor": "Run",
     "Maven.demo.Test [clean,install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Admin/Downloads/demo.Test",
     "project.structure.last.edited": "Project",
