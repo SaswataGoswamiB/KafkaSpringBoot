@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca15dfa4-3fd5-4c71-bb11-d35c9a76efa2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.Test/src/main/java/KafkaTesting/demo/Test/Consumer/WikiMediaConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.Test/src/main/java/KafkaTesting/demo/Test/Model/WikimediaEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.Test/src/main/java/KafkaTesting/demo/Test/Producer/WikiMediaProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.Test/src/main/java/KafkaTesting/demo/Test/Service/WikiMediaService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.Test/src/main/java/KafkaTesting/demo/Test/Producer/KafkaProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo.Test/src/main/java/KafkaTesting/demo/Test/Producer/KafkaProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.Test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo.Test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.Test/src/main/java/KafkaTesting/demo/Test/Controller/KafkaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo.Test/src/main/java/KafkaTesting/demo/Test/Controller/KafkaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.Test/src/main/java/KafkaTesting/demo/Test/Service/WikiMediaChangesHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo.Test/src/main/java/KafkaTesting/demo/Test/Service/WikiMediaChangesHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.Test/src/main/java/KafkaTesting/demo/Test/Service/WikiMediaProducer.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/demo.Test/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo.Test/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,18 +31,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SaswataGoswamiB"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SaswataGoswamiB&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SaswataGoswamiB/KafkaSpringBoot.git",
-    "accountId": "3608b754-4eb5-4c5f-86db-719a3a4fb6ac"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SaswataGoswamiB/KafkaSpringBoot.git&quot;,
+    &quot;accountId&quot;: &quot;92a48517-9821-461f-b23f-a0bdae971e04&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -48,20 +53,20 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Application.executor": "Run",
-    "Maven.demo.Test [clean,install].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Admin/Downloads/demo.Test",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Application.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.demo.Test [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Downloads/demo.Test&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean install" />
@@ -97,5 +102,16 @@
       <updated>1750164634804</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
